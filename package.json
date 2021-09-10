@@ -1,0 +1,23 @@
+{
+  "name": "restful-api-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhutchinson22/restful-api-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhutchinson22/restful-api-demo/issues"
+  },
+  "homepage": "https://github.com/lhutchinson22/restful-api-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
